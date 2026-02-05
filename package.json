@@ -1,0 +1,29 @@
+{
+  "name": "js-desing-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node",
+    "lint": "eslint . --fix",
+    "format": "prettier --write .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-import": "^2.32.0",
+    "globals": "^17.3.0",
+    "prettier": "^3.8.1"
+  },
+  "dependencies": {
+    "htmlparser2": "^10.1.0",
+    "mkdirp": "^3.0.1",
+    "slug": "^11.0.1"
+  }
+}
