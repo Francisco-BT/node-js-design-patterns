@@ -1,6 +1,5 @@
 import { EventEmitter } from 'node:events'
-import { createServer } from 'node:http'
-import { get } from 'node:http'
+import { createServer, get } from 'node:http'
 
 const DownloadEvent = {
   PROGRESS: 'progress'
