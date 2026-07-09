@@ -7,7 +7,7 @@ patterns applied in real Node.js + TypeScript.
 
 ## 🤖 Built AI-first
 
-I develop this repo **AI-first**, using **Claude Code** as part of the workflow. The repo
+I develop this repo **AI-first**, using **Cursor** and **Gemini** as part of the workflow. The repo
 includes a [`CLAUDE.md`](./CLAUDE.md) that documents the conventions and guardrails the
 assistant follows here — the same practice I use on production codebases: let AI accelerate
 generation and refactoring while keeping architectural authority and review over what lands.
